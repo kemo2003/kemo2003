@@ -25,7 +25,7 @@ Passionate about staying updated with the latest advancements in data science, m
 I am eager to connect with fellow enthusiasts, professionals, and mentors in the data science and machine learning community. Let's collaborate, share insights, and explore opportunities together. Feel free to reach out and connect!
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kemo_469)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karim-hesham-7452b8257)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/karim-hesham-7452b8257](https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2Fkarim-hesham-7452b8257%3Ffbclid%3DIwAR1F_QbcijrpJPvERw7UjJ_b6gUcgeleWUFc1dYrhOCQzT5bud3N6xN3HzQ&h=AT1VtsE7qduGZ244_cA40_pKDFEH2oxo2kipXE_hwUsEWAIltbhr6p43n7u5IgvdCecFfPArEPMTbQ5DeIZ7fpI2iCwJeF0lcm-_9lHMa3hID96n-Qy48z9U3Ev62AJJN681))
 ##### Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)

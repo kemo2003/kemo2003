@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://github.com/kemo2003)
+[![Header](https://ibb.co/DbHfCcM)](https://github.com/kemo2003)
 
 ##### Hi, I'm karim:
 
@@ -25,7 +25,7 @@ Passionate about staying updated with the latest advancements in data science, m
 I am eager to connect with fellow enthusiasts, professionals, and mentors in the data science and machine learning community. Let's collaborate, share insights, and explore opportunities together. Feel free to reach out and connect!
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kemo_469)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
+
 ##### Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)

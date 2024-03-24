@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)]([https://www.adamalston.com/](https://github.com/kemo2003))
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://github.com/kemo2003)
 
 
 ##### Hi, I'm karim:
